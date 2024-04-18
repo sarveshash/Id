@@ -10,7 +10,7 @@ bot_token = "7173891727:AAELOunMmieDp1jJPu-H1m5zlNYZX9SNpBg"
 
 # Initiate the client
 
-app = Client("Id_generator_Bot", api_id = api_id, api_hash = api_hash, bot_token = bot_token)
+app = Client("code", api_id = api_id, api_hash = api_hash, bot_token = bot_token)
 
 # Create a handler for start messge
 
