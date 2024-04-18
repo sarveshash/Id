@@ -6,7 +6,7 @@ from pyrogram.types import *
 
 api_id = 20058505
 api_hash = "c6416428be72db3174999c1740524b88"
-bot_token = "6768560402:AAHWSZJUJJMMSF7s_IgLhgPrcmdpzR2k3XM"
+bot_token = "7173891727:AAELOunMmieDp1jJPu-H1m5zlNYZX9SNpBg"
 
 # Initiate the client
 
